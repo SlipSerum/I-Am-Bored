@@ -1,0 +1,11 @@
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\bin\Debug\I-Am-Bored.exe.config
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\bin\Debug\I-Am-Bored.exe
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\bin\Debug\I-Am-Bored.pdb
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\bin\Debug\I-Am-Bored.xml
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I-Am-Bored.vbprojResolveAssemblyReference.cache
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I_Am_Bored.Form1.resources
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I_Am_Bored.Resources.resources
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I-Am-Bored.vbproj.GenerateResource.Cache
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I-Am-Bored.exe
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I-Am-Bored.xml
+c:\users\gamerplays\documents\visual studio 2015\Projects\I-Am-Bored\I-Am-Bored\obj\Debug\I-Am-Bored.pdb
