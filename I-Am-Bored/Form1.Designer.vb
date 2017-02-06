@@ -24,8 +24,10 @@ Partial Class Form1
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
+        Me.Button5 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -48,6 +50,16 @@ Partial Class Form1
         Me.Label2.TabIndex = 4
         Me.Label2.Text = "Times Clicked" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Make some more" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(584, 332)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(115, 30)
+        Me.Button5.TabIndex = 7
+        Me.Button5.Text = "Unmute"
+        Me.Button5.UseVisualStyleBackColor = True
+        Me.Button5.Visible = False
         '
         'Button3
         '
@@ -75,11 +87,22 @@ Partial Class Form1
         Me.Button1.TabIndex = 0
         Me.Button1.UseVisualStyleBackColor = False
         '
+        'Button6
+        '
+        Me.Button6.Location = New System.Drawing.Point(584, 332)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(115, 30)
+        Me.Button6.TabIndex = 8
+        Me.Button6.Text = "Mute"
+        Me.Button6.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(726, 439)
+        Me.Controls.Add(Me.Button6)
+        Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button3)
@@ -96,4 +119,6 @@ Partial Class Form1
     Friend WithEvents Button3 As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
+    Friend WithEvents Button5 As Button
+    Friend WithEvents Button6 As Button
 End Class
